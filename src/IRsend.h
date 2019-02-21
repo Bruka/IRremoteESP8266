@@ -317,6 +317,7 @@ class IRsend {
                     const uint16_t nbytes = kTcl112AcStateLength,
                     const uint16_t repeat = kTcl112AcDefaultRepeat);
 #endif
+
  protected:
 #ifdef UNIT_TEST
 #ifndef HIGH
